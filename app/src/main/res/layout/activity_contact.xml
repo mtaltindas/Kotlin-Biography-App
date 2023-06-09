@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#F1F8E9"
+android:orientation="vertical"
+tools:context=".Contact">
+
+    <TextView
+        android:id="@+id/textView_gallery_title"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#F1F8E9"
+        android:fontFamily="@font/bungee"
+        android:gravity="center"
+        android:text="How to contact me?"
+        android:textAlignment="center"
+        android:textColor="@color/blueish_text"
+        android:textSize="30sp" />
+
+<View
+    android:layout_width="match_parent"
+    android:layout_height="3dp"
+    android:background="#EB111637" />
+
+<ListView
+    android:id="@+id/listView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+</LinearLayout>
+
+
+
+

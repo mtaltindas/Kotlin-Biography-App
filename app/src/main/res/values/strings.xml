@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="person_name">Mehmet Talha ALTINDAŞ</string>
+    <string name="person_title">Student\nAnkara,Turkey</string>
+    <string name="uni_info">Student at\nHacettepe University</string>
+
+
+
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="about_me_text2">\t\t\tI use Python and Kotlin Programming languages. My interests are:\nMavSDK-Autonomous flight library for UAV\'s\nOpenCV-Image Processing\nAndroid Programming with Kotlin</string>
+    <string name="about_me_text1">\t\t\tHi, I am Talha. Fourth grade Electrical and Electronics engineering student at Hacettepe University.</string>
+
+</resources>
